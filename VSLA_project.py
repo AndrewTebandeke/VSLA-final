@@ -33,7 +33,7 @@ class VSLA:
             print( " Insufficient Balance")
 
     def enquiry(self):
-        print(" Thank you for using the VSLA system ")
+        print(" Thank you for using our VSLA system ")
         print (" Your Balance on the account is %f" % self.balance)
 
 
